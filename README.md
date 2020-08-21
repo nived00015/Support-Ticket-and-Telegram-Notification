@@ -1,0 +1,2 @@
+# Support-Ticket-and-Telegram-Notification
+This video demonstrates the solution to RPA Challenge, Create Support Ticket and telegram Notification.  1) In this challenge, Bot need to fetch through our email to search for emails which is addressing some technical issues, problems etc.   2) After finding such emails, a support ticket has to be created for that issue by logging to  http://challenge.rpabotsworld.com/ .  3) After Creating the ticket, a ticket no is generated. Extract the ticket No and category and notify the support team members through telegram
